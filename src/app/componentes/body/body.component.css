@@ -1,0 +1,74 @@
+.logoCamara {
+    top: 0;
+    left: 0;
+    right: 0;
+    align-items: center;
+    margin-left: 32px; 
+    margin-top: 24px; 
+    margin-bottom: 24px;
+}
+
+p {
+    margin: 0;
+}
+
+a {
+    color: #819397;
+}
+
+.tabla {
+    display: flex;
+    justify-content: center;
+}
+
+.mat-card {
+    border-radius: 20px !important;
+}
+
+table {
+  width: 100%;
+}
+
+.mat-header-cell {
+    background: #506266;
+    color: white;
+}
+
+.mat-column-name {
+    width: 12% !important;
+}
+
+.mat-column-status {
+    width: 7% !important;
+}
+
+.mat-column-species {
+    width: 6% !important;
+    ;
+}
+
+.mat-column-gender {
+    width: 6% !important;
+}
+
+.mat-column-origin {
+    width: 10% !important;
+}
+
+.mat-column-location {
+    width: 10% !important;
+    ;
+}
+
+.mat-column-episode {
+    width: 6% !important;
+}
+
+.mat-column-created {
+    width: 8% !important;
+}
+
+.mat-column-image {
+    width: 9% !important;
+    ;
+}
